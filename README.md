@@ -1,2 +1,34 @@
 # CPMS
-Developed a centralized project management system to streamline project allocation, progress tracking, task management, and collaboration. The system used data-driven approaches to organize project information and improve decision-making and workflow efficiency.
+# CPMA — College Project Management Application
+
+CPMA is a centralized project management application designed to streamline the process of managing academic projects. It enables students, faculty, and administrators to manage project allocation, team formation, task tracking, project progress, and documentation through a single platform.
+
+### Key Features
+
+* Student and faculty management
+* Project allocation and team formation
+* Project progress tracking
+* Task and milestone management
+* Project documentation and submission
+* Faculty/project guide monitoring
+* Centralized project information and status tracking
+* Role-based access for different users
+
+### Objective
+
+The primary objective of CPMA is to replace fragmented and manual project-management processes with a structured digital platform, improving transparency, collaboration, and project tracking.
+
+### Technologies
+
+**Frontend:** [Add technologies]
+**Backend:** [Add technologies]
+**Database:** [Add database]
+**AI/ML:** [Add AI/ML technologies if applicable]
+
+### Project Type
+
+Academic / Full-Stack Application
+
+### Repository
+
+[Add GitHub Repository Link]
