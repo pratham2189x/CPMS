@@ -1,4 +1,3 @@
-# CPMS
 # CPMA — College Project Management Application
 
 CPMA is a centralized project management application designed to streamline the process of managing academic projects. It enables students, faculty, and administrators to manage project allocation, team formation, task tracking, project progress, and documentation through a single platform.
@@ -20,15 +19,12 @@ The primary objective of CPMA is to replace fragmented and manual project-manage
 
 ### Technologies
 
-**Frontend:** [Add technologies]
-**Backend:** [Add technologies]
-**Database:** [Add database]
-**AI/ML:** [Add AI/ML technologies if applicable]
+Frontend: React, HTML, CSS, JavaScript
+Backend: Java with Spring Boot
+Database: MySQL
+Development Tools: Eclipse, Visual Studio Code
+Version Control: Git/GitHub is referenced through the development environment.
 
 ### Project Type
 
 Academic / Full-Stack Application
-
-### Repository
-
-[Add GitHub Repository Link]
